@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d003ffc20767eee49b24cbad2a892f11, type: 3}
+  m_Name: Glock17_Grade 3
+  m_EditorClassIdentifier: 
+  itemName: G17
+  itemType: 0
+  grade: 2
+  icon: {fileID: 0}
+  shapeType: 2
+  inventorySize: {x: 2, y: 2}
+  occupiedCells:
+  - {x: 0, y: 0}
+  - {x: 0, y: 1}
+  - {x: 1, y: 0}
+  attackDamage: 12
+  healAmount: 0
+  cooldown: 1
+  duration: 0
+  worldPrefab: {fileID: 3929475665221137477, guid: c4d1265279a8ec148aa97ddb59885154, type: 3}
+  useEffect: {fileID: 0}
+  useSound: {fileID: 0}
+  description: 
+  attackRate: 1
+  reloadTime: 2
+  maxAmmo: 30
+  isAutomatic: 1
+  projectilePrefab: {fileID: 0}
+  shootOffset: {x: 0.5, y: 0, z: 0}

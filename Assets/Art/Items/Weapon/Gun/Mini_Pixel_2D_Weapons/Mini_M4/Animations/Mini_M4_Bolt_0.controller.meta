@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f73092fc3c3a0ed4085da7518a72b9c7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294254
+  packageName: Pixel Gun and Throwable
+  packageVersion: 1.0
+  assetPath: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Animations/Mini_M4_Bolt_0.controller
+  uploadId: 694411

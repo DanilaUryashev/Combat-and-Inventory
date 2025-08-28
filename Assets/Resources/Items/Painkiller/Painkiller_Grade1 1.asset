@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b6c9835a9648ef499bcdd3eed7b42ae, type: 3}
+  m_Name: Painkiller_Grade1 1
+  m_EditorClassIdentifier: 
+  guid: 561e241e-e35a-4ad2-a8a2-472ff8054ab1
+  itemName: Painkiller
+  itemType: 1
+  grade: 1
+  icon: {fileID: 0}
+  shapeType: 0
+  inventorySize: {x: 1, y: 1}
+  occupiedCells:
+  - {x: 0, y: 0}
+  attackDamage: 0
+  healAmount: 20
+  cooldown: 0
+  duration: 0
+  worldPrefab: {fileID: 8190463058289426104, guid: 953bfe654b5700349a62650727fceb39, type: 3}
+  useEffect: {fileID: 0}
+  useSound: {fileID: 0}
+  description: 
+  isInstantUse: 1
+  effectRadius: 0

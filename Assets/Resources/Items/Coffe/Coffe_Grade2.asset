@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b6c9835a9648ef499bcdd3eed7b42ae, type: 3}
+  m_Name: Coffe_Grade2
+  m_EditorClassIdentifier: 
+  itemName: Coffe
+  itemType: 1
+  grade: 1
+  icon: {fileID: 0}
+  shapeType: 0
+  inventorySize: {x: 1, y: 1}
+  occupiedCells:
+  - {x: 0, y: 0}
+  attackDamage: 0
+  healAmount: 0
+  cooldown: 0
+  duration: 0
+  worldPrefab: {fileID: 3931094010585284655, guid: 8963e4b6f8b93ff428881f8447e88d4c, type: 3}
+  useEffect: {fileID: 0}
+  useSound: {fileID: 0}
+  description: 
+  isInstantUse: 1
+  effectRadius: 0

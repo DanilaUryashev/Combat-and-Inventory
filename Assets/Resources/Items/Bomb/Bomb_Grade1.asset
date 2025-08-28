@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f0b94bd55614d442aec98583bf1d76e, type: 3}
+  m_Name: Bomb_Grade1
+  m_EditorClassIdentifier: 
+  itemName: Bomb
+  itemType: 2
+  grade: 0
+  icon: {fileID: 0}
+  shapeType: 3
+  inventorySize: {x: 2, y: 2}
+  occupiedCells:
+  - {x: 0, y: 0}
+  - {x: 0, y: 1}
+  - {x: 1, y: 0}
+  - {x: 1, y: 1}
+  attackDamage: 10
+  healAmount: 0
+  cooldown: 0
+  duration: 0
+  worldPrefab: {fileID: 6208973615060459969, guid: 9d727e998a23c034d84730b561e4103c, type: 3}
+  useEffect: {fileID: 0}
+  useSound: {fileID: 0}
+  description: 
+  explosionRadius: 3
+  fuseTime: 3
+  explosionEffect: {fileID: 0}

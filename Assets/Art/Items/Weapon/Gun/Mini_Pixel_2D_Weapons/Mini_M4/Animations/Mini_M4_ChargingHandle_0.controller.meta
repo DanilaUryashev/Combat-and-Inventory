@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08b52e4c05b16c644b750f5de647f448
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294254
+  packageName: Pixel Gun and Throwable
+  packageVersion: 1.0
+  assetPath: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Animations/Mini_M4_ChargingHandle_0.controller
+  uploadId: 694411

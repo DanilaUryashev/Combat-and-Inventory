@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c615208b290a66c4099197d8c1486d89
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294254
+  packageName: Pixel Gun and Throwable
+  packageVersion: 1.0
+  assetPath: Assets/Mini_Pixel_2D_Weapons/Mini_G17/Animations/L_Mini_G17_Frame_0.controller
+  uploadId: 694411

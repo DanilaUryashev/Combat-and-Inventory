@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e3968c22f46c984ca9ca63f2a18f848
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294254
+  packageName: Pixel Gun and Throwable
+  packageVersion: 1.0
+  assetPath: Assets/Mini_Pixel_2D_Weapons/ShellEjecting/Animations/Mini_M4_ShellEjecting_1_0.controller
+  uploadId: 694411
